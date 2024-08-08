@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+form {
+  margin: 20px;
+}
+
+form div {
+  margin: 10px 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+button {
+  margin: 5px;
+}
